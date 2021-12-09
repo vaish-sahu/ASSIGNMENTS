@@ -1,3 +1,5 @@
+WAP to show the marks obtained by students in five subject and print subject wise? 
+
 var marks = 90
 
 switch marks {
