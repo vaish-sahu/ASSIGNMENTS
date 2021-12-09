@@ -1,3 +1,5 @@
+WAP for assiging the grade from A to D for the marks/percentage got by student (90-100:A; 80-89:B; 70-79:C; 60-69:D
+                                                                                
 var percentage = 75
 
 switch percentage {
